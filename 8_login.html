@@ -1,0 +1,25 @@
+<DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+</head>
+<body>
+	<!---ClickJack counter measure starts-->
+	<script>
+		if(self != top) {
+			top.location = self.location;
+		}
+	</script>
+	<!---ClickJack counter measure ends-->
+	<div class="container">
+		<b><u><h2 ><center>The Login Page</center></h2></u></b>
+		<form action="8_check_login_info.php" method="POST">
+
+			Enter Name : <input type="text" name="name" required="required"/><br/>
+			Enter Pass : <input type="password" name="pass" required="required"/><br/>
+			<input type="submit" value="Login" class="button"/>
+		</form>	
+	</div>
+	</body>
+</body>
+</html>
