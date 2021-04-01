@@ -2,7 +2,7 @@
 Please put files of this reposetory at apache document root.
 This repo consists of following files.
 
-<div align="center">**The following files are for basic banking facility.**</div>
+**<div align="center">The following files are for basic banking facility.</div>**
 
 
 
