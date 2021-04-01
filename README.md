@@ -4,8 +4,6 @@ This repo consists of following files.
 
 **<div align="center">The following files are for basic banking facility.</div>**
 
-
-
 8_login.html
 
 8_check_login_info.php
@@ -22,7 +20,7 @@ This repo consists of following files.
 
 8_logout.php
 
-**The following files are to demonstrate clickjack attack.**
+**<div align="center">The following files are to demonstrate clickjack attack.</div>**
 
 8_to_hackdb.php
 
@@ -30,6 +28,6 @@ This repo consists of following files.
 
 8_page_combine.html
 
-**The following file is to demonstrate csrf attack.**
+**<div align="center">The following file is to demonstrate csrf attack.</div>**
 
 8_csrf.php
